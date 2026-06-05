@@ -5,13 +5,13 @@
 </div>
 
 <br>
-
+<br>
 <br>
 
-<img align="right" width="300" src="./stk.gif" />
+<img align="right" width="350" src="./stk.gif" />
 
 <ul>
-  <li>🔒 Prev intern @ SBM India (CISO) & IDBI Bank (NOC)</li>
+  <li>i love data engineering, data viz and everything to with data</li>
   <li>🏴 CTF player & organizer</li>
   <li>📊 I like meddling with data</li>
   <li>⚡ Into GPU programming & systems</li>

@@ -27,4 +27,4 @@ Hi, my name is **Sujai Murali**, nice to meet you!  *(play GIF)*
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujai-murali/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:velociper5@gmail.com)
 [![Build Readme](https://img.shields.io/badge/Build%20Readme-passing-brightgreen?logo=github)](https://github.com/kerosene5)
-[![More Random Tags](https://img.shields.io/badge/More%20Random%20Tags-grey?logo=tagmanifest&logoColor=white)](https://github.com/kerosene5?tab=repositories)
+[![More Random Tags](https://img.shields.io/badge/More%20Random%20Tags-purple?logo=tagmanifest&logoColor=white)](https://github.com/kerosene5?tab=repositories)

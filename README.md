@@ -12,7 +12,9 @@
 
 <ul>
   <li>I love <strong>data engineering, data visualization</strong> and everything to do with <strong>data.</strong></li>
-  <li>Engineering student at <strong>MIT</strong> (no, not that one).</li>
-  <li>Also a <strong>Cybersecurity</strong> enthusiast, especially <strong>Network Security</strong> and <strong>Cryptography</strong>.</li>
-  <li>Reach me: <a href="https://linkedin.com/in/sujai-murali">LinkedIn</a></li>
+  <li>Engineering student at <em>MIT</em> (no, not that one).</li>
+  <li>Also a <strong>Cybersecurity</strong> enthusiast, especially Network Security and Cryptography.</li>
+  <li>I really did play Forza Horizon 6 yesterday (I love it).</li>
+  <li>Currently working on <a href="https://github.com/kerosene5/flight-analytics-lakehouse">Flight Analytics Data Lakehouse</a>. Check it out? 🥺</li>
+  <li>Reach me: <a href="https://linkedin.com/in/sujai-murali">LinkedIn</a></li
 </ul>

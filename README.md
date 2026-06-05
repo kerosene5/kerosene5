@@ -13,6 +13,6 @@
 <ul>
   <li>I love <strong>data engineering, data visualization</strong> and everything to do with <strong>data.</strong></li>
   <li>Engineering student at <strong>MIT</strong> (no, not that one).</li>
-  <li><strong>Networking</strong> and <strong>cybersecurity</strong> enthusiast</li>
+  <li><strong>Networking</strong> and <strong>Cybersecurity</strong> enthusiast</li>
   <li>📫 Reach me: <a href="https://linkedin.com/in/sujai-murali">LinkedIn</a></li>
 </ul>

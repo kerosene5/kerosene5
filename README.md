@@ -9,8 +9,8 @@
 # About Me
 <img align="right" width="325" src="./stk.gif" />
 <ul>
-  <li>i love data engineering, data viz and everything to with data</li>
-  <li>🏴 CTF player & organizer</li>
-  <li>⚡ Into GPU programming & systems</li>
+  <li>I love data engineering, data viz and everything to do with data.</li>
+  <li>Engineering student at <em>MIT</em> (no, not that one).</li>
+  <li>Good with networks and cybersec</li>
   <li>📫 Reach me: <a href="https://linkedin.com/in/sujai-murali">LinkedIn</a></li>
 </ul>

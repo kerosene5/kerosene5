@@ -17,8 +17,9 @@ Hi, my name is **Sujai Murali**, nice to meet you!  *(play GIF)*
   <li>Engineering student at <em>MIT</em> (no, not that one).</li>
   <li>Also a <strong>Cybersecurity</strong> enthusiast, especially Network Security and Cryptography.</li>
   <li>I really did play Forza Horizon 6 yesterday (I love it).</li>
-  <li>Currently working on <a href="https://github.com/kerosene5/flight-analytics-lakehouse">Flight Analytics Data Lakehouse</a>. Check it out? 🥺</li>
 </ul>
+
+Currently working on <a href="https://github.com/kerosene5/flight-analytics-lakehouse">Flight Analytics Data Lakehouse</a>. Check it out? 🥺
 
 <br>
 <br>

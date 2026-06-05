@@ -8,12 +8,7 @@
 
 <br>
 
-<br>
-
 # About Me
-
-<br>
-<br>
 <img align="right" width="325" src="./stk.gif" />
 <ul>
   <li>i love data engineering, data viz and everything to with data</li>

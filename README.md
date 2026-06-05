@@ -4,11 +4,12 @@
 
 </div>
 
-<br>
-
-## Sujai Murali
-
-</div>
-
 <img align="right" width="300" src="./stk.gif" />
-...rest of your readme...
+
+<ul>
+  <li>🔒 Prev intern @ SBM India (CISO) & IDBI Bank (NOC)</li>
+  <li>🏴 CTF player & organizer</li>
+  <li>📊 I like meddling with data</li>
+  <li>⚡ Into GPU programming & systems</li>
+  <li>📫 Reach me: <a href="https://linkedin.com/in/sujai-murali">LinkedIn</a></li>
+</ul>

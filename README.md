@@ -8,7 +8,6 @@
 
 <br>
 <br>
-<br>
 
 <img align="right" width="325" src="./stk.gif" />
 

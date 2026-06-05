@@ -11,8 +11,8 @@
 <img align="right" width="325" src="./stk.gif" />
 
 <ul>
-  <li><h3>I love data engineering, data viz and everything to do with data.</h3></li>
-  <li>Engineering student at <em>MIT</em> (no, not that one).</li>
-  <li>Networking and cybersecurity enthusiast</li>
+  <li>I love <strong>data engineering, data visualization</strong> and everything to do with <strong>data.</strong></li>
+  <li>Engineering student at <strong>MIT</strong> (no, not that one).</li>
+  <li><strong>Networking</strong> and <strong>cybersecurity</strong> enthusiast</li>
   <li>📫 Reach me: <a href="https://linkedin.com/in/sujai-murali">LinkedIn</a></li>
 </ul>
